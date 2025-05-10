@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "4891a8493cdc9cef",
+    "type": "split",
+    "children": [
+      {
+        "id": "88968965b3e82585",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5f27ee252f4126f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aeeaf1b80c2cded5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d51fb7a9b4663ed8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fdc2c2832c8ded1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4f851251c3189de4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "2d0ece5cb3475e44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5515d3cd58cf0de6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a5e304a70dcbc4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5def8aec24ead342",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "b6fb391f053cc7d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "12306 项目学习/组件库/基础组件.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "基础组件 的出链列表"
+            }
+          },
+          {
+            "id": "b92202aacb240289",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "65ca50086c0db16d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "12306 项目学习/组件库/基础组件.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "基础组件 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "a5f27ee252f4126f",
+  "lastOpenFiles": [
+    "未命名.md",
+    "未命名",
+    "未命名 1.canvas",
+    "2025-05-05.md",
+    "12306 项目学习/Drawing 2025-04-27 17.28.01.excalidraw.md",
+    "12306 项目学习/组件库/基础组件.md",
+    "未命名.canvas",
+    "Excalidraw/Drawing 2025-04-27 17.21.14.excalidraw.md",
+    "Excalidraw",
+    "12306 项目学习/组件库/规约组件.md"
+  ]
+}
